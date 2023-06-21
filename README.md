@@ -1,4 +1,4 @@
-# Experiment 5
+# Experiment 18
 
 ## Aim:
 To create SQL query to fetch duplicate records having matching data in some fields of a table.
