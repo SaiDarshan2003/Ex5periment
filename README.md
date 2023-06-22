@@ -81,5 +81,10 @@ FROM Player
 GROUP BY DESIGNATION, AFFECTED_FROM
 HAVING COUNT(*) > 1;
 ```
+## Output:
+
+![image](https://github.com/SaiDarshan2003/Ex5periment/assets/94692595/63fc147b-1cfe-4c0c-accd-db327d8bd13a)
+
+
 ## Result:
 Therefore we have successfully created a SQL query to fetch duplicate records having matching data in some fields of a table.
